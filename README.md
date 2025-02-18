@@ -13,6 +13,8 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CyberRoute&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberRoute&langs_count=5&theme=tokyonight)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Obsessed+Coder;Open+Source+Contributor;PGP+Encryption+Advocate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AFFF&width=435&lines=Obsessed+Coder;Open+Source+Contributor;PGP+Encryption+Advocate)](https://git.io/typing-svg)
+
+
 
 
